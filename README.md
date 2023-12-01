@@ -13,5 +13,5 @@
 ## How to contact me?
 
 - [Issue](https://github.com/hitptep/hitptep/issues)
-- [个人Github专用邮箱](hitptep@aliyun.com)（不常看）
+- 个人Github专用邮箱（不常看）
 
